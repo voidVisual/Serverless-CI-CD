@@ -24,8 +24,8 @@ This repository demonstrates a **Serverless CI/CD pipeline** using **AWS Lambda,
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/serverless-cicd-aws.git
-cd serverless-cicd-aws
+git clone https://github.com/voidVisual/Serverless-CI-CD.git
+cd Serverless-CI-CD.git
 ```
 
 ### Configure AWS Credentials
